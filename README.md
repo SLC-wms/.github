@@ -1,0 +1,5 @@
+# Our vision
+
+The SLC-wms serves as an organization to have all the related repos in one place, so SLC-wms is a PROJECT, not a company. However that can change in the future as the project grows, but until then, everything will be licensed in a Copyleft fashion. Why Open Source? This project started as a side project of the current founder [@Vicente-G](https://github.com/Vicente-G), and with no more people in the team, it seemed like the right move to open the project, so other talented people can help in making this big.
+
+Also, the construction of this WMS, has a target on smaller operations, so it just make sense for this development to be free of charge, and let people just pay for what they use with a cloud provider. So, that's why this project started, it is a nice oportunity of learning for the founder and any contributor that joined in, and has for objective to bring the technology associated with logistics closer to those entrepreneur souls worldwide.
