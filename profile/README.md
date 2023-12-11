@@ -8,6 +8,6 @@ Now, you can take a look on these portrait views that fulfills part of the syste
 
 ![Picking App](https://github.com/SLC-wms/.github/assets/78003979/fe1a3000-f47f-415d-b583-23b30e6d2c4d)
 
-![Dashboard App](https://github.com/SLC-wms/.github/assets/78003979/812f490f-5e8f-4c04-bc73-d8708691a10b)
+![Dashboard Phone](https://github.com/SLC-wms/.github/assets/78003979/d0b31dc8-58c0-4123-a229-1aa71bde3788)
 
 ![Other Apps](https://github.com/SLC-wms/.github/assets/78003979/eeea1185-cd4c-4b57-bb90-bcc0c4b59acd)
